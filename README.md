@@ -17,3 +17,4 @@ Shadowrocket 中文名称“小火箭”，是iOS系统一款非常好用的代�
 
 第六步：选择节点 - 开启即可
 
+<img src="https://github.com/kjfx/Shadowrocket/blob/main/Shadowrocket%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.gif" />
