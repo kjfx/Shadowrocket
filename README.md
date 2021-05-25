@@ -1,6 +1,6 @@
 # Shadowrocket使用教程、iOS小火箭使用方法
-Shadowrocket视频教程：https://youtu.be/2rXuAw_8nac <br>
-注册美国AppleID教程：https://github.com/kjfx/AppleID
+- Shadowrocket视频教程：https://youtu.be/2rXuAw_8nac <br>
+- 注册美国AppleID教程：https://github.com/kjfx/AppleID
 
 Shadowrocket 中文名称“小火箭”，是iOS系统一款非常好用的代理工具，支持目前主流的SSR、V2ray、Trojan等节点，支持机场订阅链接批量添加节点，界面操作简单，对新手用户使用友好。
 
